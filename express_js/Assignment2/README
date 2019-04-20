@@ -1,0 +1,6 @@
+1. Create a npm project, install express and nodemon
+
+2. Create an app which funnels the requests through two middleware functions 
+   that log something to console and return one response
+
+3. Handle requests `/` and `/users`, such that each request has one handler/middleware

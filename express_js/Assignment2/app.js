@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 
+//2nd task 
 /*
 app.use('/first-second', function(req, res, next){
     console.log("In the first Middleware!");
@@ -13,6 +14,7 @@ app.use('/first-second', function(req, res){
 });
 */
 
+//3rd task
 app.use('/users', function(req, res){
     console.log("In the second middleware");
     res.send("<h2>In Users</h2>");
