@@ -1,0 +1,7 @@
+#Important Core modules
+
+http - creating server and http responses
+https - similar to http, but helpful for launching SSL server
+path - paths, path to filesystem
+fs - filesystems
+os - operating systems 
